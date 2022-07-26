@@ -1,0 +1,26 @@
+.mission,
+.more,
+.benefits,
+.deepening,
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*
+.mission > div,
+.more > div,
+.benefits > div,
+.deepening > div,
+.contact > div {
+}*/
+
+.intro {
+  color: white;
+  background: url('https://a-cloud.b-cdn.net/media/iW=5000&iH=any/77f38f95cb24039e6d3f56f28d665d18.jpg')
+    no-repeat fixed center/cover;
+  /*height: 100vh;*/
+}
+.contact {
+  background-color: rgba(188, 231, 226, 0.93);
+}

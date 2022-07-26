@@ -1,0 +1,27 @@
+.bg1,
+.bg2,
+.content {
+  border-radius: 0.5rem;
+  padding: 0.6rem;
+}
+
+.bg1 {
+  width: 60%;
+  border: 2px solid rgb(136, 136, 136);
+  background-color: #292e35;
+  align-self: center;
+}
+
+.bg2 {
+  background-color: #3c4247;
+  padding: 1em;
+}
+
+.content {
+  background-color: #47555a;
+}
+
+p {
+  color: #ff9326;
+  font-weight: bold;
+}
